@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.style{
+    background-color: rgb(247, 247, 4);
+    border: dashed rgb(7, 7, 97) 2px;
+}
+
+.wrapper{
+    padding: 2rem;
+}
+.txt{
+    margin-top: 1rem;
+}
